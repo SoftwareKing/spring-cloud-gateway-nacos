@@ -3,6 +3,7 @@ spring:
   application:
     name: sc-gateway-server
 
+
 # 配置输出日志
 logging:
   level:
